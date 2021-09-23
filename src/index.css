@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+.a-c {
+  display: flex;
+  align-items: center;
+}
+.j-c {
+  justify-content: center;
+}
+.c-p {
+  cursor: pointer;
+}
